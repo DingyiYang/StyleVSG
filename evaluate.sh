@@ -1,14 +1,14 @@
 MODEL_DIR=$1
 DATA_DIR=data/vist/processed
 MODEL=$2
-STYLE=$5
+STYLE=$3
 cp $DATA_DIR/test.src-tgt.src.bin $DATA_DIR/test.src-$STYLE\_tgt.src.bin
 cp $DATA_DIR/test.src-tgt.src.idx $DATA_DIR/test.src-$STYLE\_tgt.src.idx
 cp $DATA_DIR/test.src-tgt.tgt.bin $DATA_DIR/test.src-$STYLE\_tgt.$STYLE\_tgt.bin
 cp $DATA_DIR/test.src-tgt.tgt.idx $DATA_DIR/test.src-$STYLE\_tgt.$STYLE\_tgt.idx
 cp $DATA_DIR/dict.src.txt $DATA_DIR/dict.$STYLE\_tgt.txt
 cp $DATA_DIR/dict.tgt.txt $DATA_DIR/dict.src.txt
-CUDA_VISIBLE_DEVICES=$3 fairseq-generate $DATA_DIR \
+fairseq-generate $DATA_DIR \
 	--encoder_type transformer \
 	--decoder_type transformer \
 	--mode_type test \
