@@ -1,0 +1,2653 @@
+[PAD]
+[UNK]
+[CLS]
+[SEP]
+[MASK]
+yolk
+yolks
+goal
+goals
+bathroom
+bathrooms
+macaroni
+umpire
+umpires
+toothpick
+toothpicks
+alarm clock
+ceiling fan
+photos
+parrot
+parrots
+tail fin
+birthday cake
+calculator
+catcher
+catchers
+toilet
+toilets
+batter
+batters
+stop sign
+cone
+cones
+microwave
+skateboard ramp
+tea
+teas
+dugout
+dugouts
+products
+product
+halter
+halters
+kettle
+kettles
+kitchen
+kitchens
+refrigerator
+ostrich
+ostriches
+bathtub
+blinds
+court
+courts
+urinal
+urinals
+knee pads
+bed
+beds
+flamingo
+flamingos
+flamingoes
+giraffe
+giraffes
+giraffes are
+giraffess
+helmet
+helmets
+giraffes
+tennis court
+motorcycle
+motorcycles
+laptop
+laptops
+tea pot
+horse
+horses
+television
+shorts
+manhole
+manholes
+dishwasher
+jeans
+sail
+sails
+monitor
+monitors
+man
+mans
+shirt
+shirts
+car
+cars
+cat
+cats
+garage door
+bus
+buses
+busses
+buss
+radiator
+tights
+sailboat
+racket
+plate
+plates
+rock wall
+beach
+beaches
+beachs
+trolley
+trolleys
+ocean
+oceans
+headboard
+tea kettle
+wetsuit
+tennis racket
+sink
+sinks
+train
+trains
+keyboard
+keyboards
+sky
+skies
+skys
+match
+matches
+train station
+stereo
+bats
+tennis player
+toilet brush
+lighter
+pepper shaker
+gazebo
+gazebos
+hair dryer
+elephant
+elephants
+toilet seat
+zebra
+zebras
+skateboard
+zebras
+floor lamp
+french fries
+woman
+women
+womans
+womens
+player
+players
+of players
+tower
+towers
+bicycle
+bicycles
+magazines
+christmas tree
+umbrella
+umbrellas
+cow
+cows
+pants
+bike
+bikes
+bikes are
+field
+fields
+living room
+latch
+latches
+bedroom
+bedrooms
+grape
+grapes
+castle
+castles
+table
+tables
+swan
+swans
+blender
+blenders
+orange
+oranges
+teddy bear
+net
+nets
+meter
+meters
+baseball field
+runway
+runways
+screen
+screens
+ski boot
+dog
+dogs
+clock
+clocks
+hair
+hairs
+avocado
+avocados
+highway
+highways
+skirt
+skirts
+frisbee
+frisbees
+parasail
+parasails
+desk
+desks
+pizza
+pizzas
+mouse
+mice
+sign
+signs
+shower curtain
+polar bear
+airplane
+airplanes
+jersey
+jerseys
+reigns
+reign
+hot dog
+surfboard
+couch
+couches
+glass
+glasses
+glassses
+glasss
+snowboard
+snowboards
+girl
+girls
+plane
+planes
+elephants
+oven
+ovens
+dirt bike
+tail wing
+area rug
+bear
+bears
+the bears
+washer
+washers
+date
+dates
+bow tie
+cows
+fire extinguisher
+bamboo
+wallet
+wallets
+tail feathers
+truck
+trucks
+beach chair
+boat
+boats
+boats are
+tablet
+tablets
+ceiling
+ceilings
+chandelier
+chandeliers
+sheep
+sheeps
+glasses
+glassess
+ram
+rams
+kite
+kites
+kites are
+salad
+salads
+pillow
+pillows
+fire hydrant
+mug
+mugs
+tarmac
+computer
+computers
+swimsuit
+swimsuits
+tomato
+tomatoes
+tomatos
+tire
+tires
+cauliflower
+cauliflowers
+fireplace
+snow
+snows
+building
+buildings
+sandwich
+sandwiches
+sandwichs
+weather vane
+bird
+birds
+jacket
+jackets
+chair
+chairs
+water
+waters
+cats
+soccer ball
+horses
+drapes
+barn
+barns
+engine
+engines
+cake
+cakes
+head
+heads
+head band
+skier
+skiers
+skiers are
+town
+bath tub
+bowl
+bowls
+stove
+stoves
+tongue
+tongues
+coffee table
+floor
+floors
+uniform
+uniforms
+ottoman
+ottomen
+ottomans
+broccoli
+broccolis
+olive
+olives
+mound
+mounds
+pitcher
+pitchers
+food
+foods
+paintings
+traffic light
+parking meter
+bananas
+mountain
+mountains
+mountains are
+of mountains
+cage
+cages
+hedge
+hedges
+motorcycles
+wet suit
+radish
+radishes
+teddy bears
+monitors
+suitcase
+drawers
+grass
+grasses
+grasss
+apple
+apples
+lamp
+lamps
+goggles
+boy
+boys
+armchair
+armchairs
+ramp
+ramps
+burner
+burners
+lamb
+lambs
+cup
+cups
+tank top
+boats
+hat
+hats
+soup
+soups
+fence
+fences
+necklace
+necklaces
+visor
+visors
+coffee
+bottle
+bottles
+stool
+stools
+shoe
+shoes
+surfer
+surfers
+stop
+stops
+backpack
+backpacks
+shin guard
+wii remote
+wall
+walls
+pizza slice
+home plate
+van
+vans
+packet
+packets
+earrings
+wristband
+wristbands
+tracks
+mitt
+mitts
+dome
+domes
+snowboarder
+snowboarders
+faucet
+faucets
+toiletries
+toiletry
+ski boots
+room
+rooms
+fork
+forks
+snow suit
+banana slice
+bench
+benches
+tie
+ties
+burners
+stuffed animals
+zoo
+train platform
+cupcake
+cupcakes
+curtain
+curtains
+curtains are
+ear
+ears
+tissue box
+bread
+breads
+scissors
+vase
+herd
+smoke
+smokes
+skylight
+skylights
+cub
+cubs
+tail
+tails
+cutting board
+wave
+waves
+waves of
+hedges
+windshield
+windshields
+apples
+mirror
+mirrors
+license plate
+tree
+trees
+of trees
+trees are
+treess
+wheel
+wheels
+ski pole
+clock tower
+freezer
+freezers
+luggage
+luggages
+skateboarder
+skateboarders
+mousepad
+mousepads
+road
+roads
+bat
+bats
+toilet tank
+vanity
+neck
+necks
+cliff
+cliffs
+tub
+tubs
+sprinkles
+sprinkle
+dresser
+dressers
+street
+streets
+wing
+wings
+suit
+suits
+veggie
+veggies
+palm trees
+urinals
+door
+doors
+doors of
+propeller
+propellers
+keys
+skate park
+platform
+platforms
+pot
+pots
+towel
+towels
+computer monitor
+flip flop
+eggs
+shed
+sheds
+moped
+mopeds
+sand
+sands
+face
+faces
+scissor
+carts
+squash
+squashes
+pillows
+family
+families
+glove
+gloves
+rug
+rugs
+watch
+watches
+grafitti
+dogs
+scoreboard
+basket
+baskets
+poster
+posters
+duck
+ducks
+horns
+bears
+jeep
+jeeps
+painting
+paintings
+lighthouse
+remote control
+toaster
+toasters
+vegetables
+surfboards
+surfboard
+ducks
+lane
+lanes
+carrots
+market
+markets
+paper towels
+island
+islands
+blueberries
+smile
+smiles
+balloons
+stroller
+strollers
+napkin
+napkins
+towels
+papers
+person
+persons
+train tracks
+child
+children
+childs
+headband
+headbands
+pool
+pools
+plant
+plants
+harbor
+counter
+counters
+hand
+hands
+house
+houses
+houses are
+donut
+knot
+knots
+soccer player
+seagull
+seagulls
+bottles
+buses
+coat
+coats
+trees
+geese
+bun
+buns
+toilet bowl
+trunk
+trunks
+station
+stations
+bikini
+bikinis
+goatee
+lounge chair
+breakfast
+breakfasts
+nose
+noses
+moon
+moons
+river
+rivers
+racer
+racers
+picture
+pictures
+shaker
+shakers
+sidewalk
+shutters
+stove top
+church
+churches
+lampshade
+lampshades
+map
+maps
+shop
+shops
+platter
+platters
+airport
+hoodie
+oranges
+woods
+enclosure
+enclosures
+skatepark
+vases
+vas
+city
+cities
+park
+parks
+mailbox
+mailboxes
+balloon
+balloons
+billboard
+billboards
+pasture
+pastures
+portrait
+portraits
+forehead
+foreheads
+ship
+ships
+cookie
+seaweed
+seaweeds
+sofa
+sofas
+slats
+slat
+tomato slice
+tractor
+tractors
+bull
+bulls
+suitcases
+suitcase
+graffiti
+policeman
+policemen
+policemans
+remotes
+pens
+window sill
+suspenders
+suspender
+easel
+easels
+tray
+trays
+straw
+straws
+collar
+collars
+shower
+showers
+bag
+bags
+scooter
+scooters
+tails
+toilet lid
+panda
+pandas
+comforter
+comforters
+outlet
+outlets
+stems
+valley
+valleys
+flag
+flags
+jockey
+jockeys
+gravel
+gravels
+mouth
+mouths
+window
+windows
+windows are
+of windows
+bridge
+bridges
+corn
+corns
+mountains
+beer
+beers
+pitcher's mound
+palm tree
+crowd
+crowds
+skis
+phone
+phones
+banana bunch
+tennis shoe
+ground
+grounds
+carpet
+carpets
+eye
+eyes
+eyes are
+urn
+urns
+beak
+beaks
+giraffe head
+steeple
+steeples
+mattress
+mattresses
+baseball player
+wine
+wines
+water bottle
+kitten
+kittens
+archway
+archways
+candle
+candles
+croissant
+croissants
+tennis ball
+dress
+dresses
+dresss
+column
+columns
+columnss
+utensils
+cell phone
+computer mouse
+cap
+caps
+lawn
+lawns
+airplanes
+carriage
+carriages
+snout
+snouts
+cabinets
+lemons
+grill
+grills
+umbrellas
+meat
+meats
+wagon
+wagons
+ipod
+ipods
+bookshelf
+bookshelves
+cart
+carts
+roof
+roofs
+hay
+hays
+ski pants
+seat
+seats
+mane
+manes
+bikes
+drawer
+drawers
+game
+games
+clock face
+boys
+rider
+riders
+fire escape
+slope
+slopes
+iphone
+pumpkin
+pumpkins
+pan
+pans
+chopsticks
+chopstick
+hill
+hills
+uniforms
+cleat
+cleats
+costume
+costumes
+cabin
+cabins
+police officer
+ears
+egg
+eggs
+trash can
+horn
+horns
+arrow
+arrows
+toothbrush
+toothbrushes
+carrot
+carrots
+banana
+bananas
+planes
+garden
+forest
+forests
+brocolli
+aircraft
+aircrafts
+front window
+dashboard
+statue
+statues
+saucer
+saucers
+people
+peoples
+silverware
+fruit
+fruits
+fruits are
+drain
+drains
+jet
+jets
+jets are
+speaker
+speakers
+eyes
+railway
+railways
+lid
+lids
+soap
+soaps
+rocks
+office chair
+door knob
+banana peel
+baseball game
+asparagus
+spoon
+spoons
+cabinet door
+pineapple
+pineapples
+traffic cone
+nightstand
+teapot
+teapots
+taxi
+taxis
+chimney
+chimneys
+lake
+lakes
+suit jacket
+train engine
+ball
+balls
+wrist band
+pickle
+pickles
+fruits
+pad
+pads
+dispenser
+dispensers
+bridle
+bridles
+breast
+breasts
+cones
+headlight
+headlights
+necktie
+neckties
+skater
+skaters
+toilet paper
+skyscraper
+skyscrapers
+telephone
+telephones
+ox
+oxen
+oxes
+roadway
+roadways
+sock
+socks
+paddle
+paddles
+dishes
+hills
+street sign
+headlights
+benches
+fuselage
+card
+cards
+napkins
+bush
+bushes
+rice
+computer screen
+spokes
+flowers
+bucket
+buckets
+rock
+rocks
+pole
+poles
+pear
+pears
+sauce
+sauces
+store
+stores
+juice
+juices
+knobs
+mustard
+ski
+skis
+of skis
+stands
+cabinet
+cabinets
+dirt
+dirts
+goats
+wine glass
+spectators
+crate
+crates
+pancakes
+pancake
+kids
+engines
+shade
+shades
+feeder
+feeders
+cellphone
+cellphones
+pepper
+peppers
+blanket
+blankets
+sunglasses
+sunglassess
+sunglass
+sunglasss
+sunglassses
+train car
+magnet
+magnets
+donuts
+sweater
+sweaters
+signal
+signals
+advertisement
+advertisements
+log
+logs
+vent
+vents
+whiskers
+whisker
+adult
+adults
+arch
+arches
+archs
+locomotive
+locomotives
+tennis match
+tent
+tents
+motorbike
+motorbikes
+magnets
+night
+marina
+wool
+wools
+vest
+vests
+railroad tracks
+stuffed bear
+moustache
+bib
+bibs
+frame
+frames
+snow pants
+tank
+tanks
+undershirt
+icons
+icon
+neck tie
+beams
+baseball bat
+safety cone
+paper towel
+bedspread
+bedspreads
+can
+cans
+container
+containers
+flower
+flowers
+vehicle
+vehicles
+vehicles are
+tomatoes
+back wheel
+soccer field
+nostril
+nostrils
+suv
+suvs
+buildings
+canopy
+canopies
+canopys
+flame
+flames
+kid
+kids
+baseball
+baseballs
+throw pillow
+belt
+belts
+rainbow
+rainbows
+lemon
+lemons
+oven door
+tag
+tags
+books
+monument
+men
+mens
+shadow
+shadows
+shadows of
+bicycles
+cars
+lamp shade
+pine tree
+bouquet
+bouquets
+toothpaste
+toothpastes
+potato
+potatoes
+potatos
+sinks
+hook
+hooks
+switch
+switches
+lamp post
+lapel
+lapels
+desert
+deserts
+knob
+knobs
+chairs
+pasta
+pastas
+feathers
+hole
+holes
+meal
+meals
+station wagon
+kites
+boots
+baby
+babies
+babys
+biker
+gate
+gates
+signal light
+headphones
+headphone
+goat
+goats
+waves
+bumper
+bumpers
+bud
+buds
+logo
+logos
+curtains
+american flag
+yacht
+yachts
+box
+boxes
+boxes of
+baseball cap
+fries
+controller
+controllers
+awning
+awnings
+path
+paths
+front legs
+life jacket
+purse
+purses
+outfield
+pigeon
+pigeons
+toddler
+toddlers
+beard
+beards
+thumb
+thumbs
+water tank
+board
+boards
+parade
+robe
+robes
+newspaper
+newspapers
+wires
+camera
+cameras
+pastries
+deck
+decks
+watermelon
+watermelons
+clouds
+deer
+deers
+motorcyclist
+motorcyclists
+kneepad
+sneakers
+women
+onions
+eyebrow
+eyebrows
+gas station
+vane
+girls
+trash
+numerals
+knife
+knives
+knifes
+tags
+light
+lights
+lights are
+bunch
+bunches
+outfit
+outfits
+groom
+grooms
+infield
+frosting
+forks
+entertainment center
+stuffed animal
+yard
+yards
+numeral
+numerals
+ladder
+ladders
+shoes
+bracelet
+bracelets
+teeth
+guy
+guys
+display case
+cushion
+cushions
+post
+posts
+pathway
+pathways
+tablecloth
+tablecloths
+skiers
+trouser
+trousers
+cloud
+clouds
+hands
+produce
+beam
+beams
+ketchup
+paw
+paws
+dish
+dishes
+raft
+rafts
+crosswalk
+crosswalks
+front wheel
+toast
+toasts
+cattle
+cattles
+players
+group
+groups
+coffee pot
+track
+tracks
+of tracks
+cowboy hat
+petal
+petals
+eyeglasses
+eyeglass
+handle
+handles
+table cloth
+jets
+shakers
+remote
+remotes
+snowsuit
+snowsuits
+bushes
+dessert
+desserts
+leg
+legs
+legs of
+legs are
+eagle
+eagles
+fire truck
+game controller
+smartphone
+backsplash
+trains
+shore
+shores
+signs
+bell
+bells
+cupboards
+sweat band
+sack
+sacks
+ankle
+ankles
+coin slot
+bagel
+bagels
+masts
+police
+drawing
+drawings
+biscuit
+biscuits
+toy
+toys
+legs
+pavement
+pavements
+outside
+wheels
+driver
+drivers
+numbers
+blazer
+blazers
+pen
+pens
+cabbage
+cabbages
+trucks
+key
+keys
+saddle
+saddles
+pillow case
+goose
+geese
+gooses
+label
+labels
+boulder
+boulders
+pajamas
+pajama
+wrist
+wrists
+shelf
+shelves
+shelfs
+cross
+crosses
+coffee cup
+foliage
+lot
+lots of
+lots
+fry
+fries
+frys
+air
+officer
+officers
+pepperoni
+pepperonis
+cheese
+cheeses
+lady
+ladies
+ladys
+kickstand
+kickstands
+counter top
+veggies
+baseball uniform
+book shelf
+bags
+pickles
+stand
+stands
+netting
+lettuce
+facial hair
+lime
+limes
+animals
+drape
+drapes
+boot
+boots
+railing
+railings
+end table
+shin guards
+steps
+step
+trashcan
+tusk
+tusks
+head light
+walkway
+walkways
+cockpit
+cockpits
+tennis net
+animal
+animals
+boardwalk
+keypad
+keypads
+bookcase
+bookcases
+blueberry
+blueberries
+trash bag
+ski poles
+parking lot
+gas tank
+beds
+fan
+fans
+base
+bases
+soap dispenser
+banner
+banners
+life vest
+train front
+word
+words
+cab
+cabs
+liquid
+liquids
+exhaust pipe
+sneaker
+sneakers
+light fixture
+power lines
+curb
+curbs
+scene
+buttons
+roman numerals
+muzzle
+sticker
+stickers
+the stickers
+bacon
+pizzas
+paper
+papers
+feet
+stairs
+stair
+triangle
+triangles
+plants
+rope
+ropes
+beans
+brim
+brims
+beverage
+beverages
+letters
+soda
+sodas
+menu
+menus
+finger
+fingers
+dvds
+dvd
+candles
+picnic table
+wine bottle
+pencil
+pencils
+tree trunk
+nail
+nails
+mantle
+countertop
+countertops
+view
+views
+line
+lines
+motor bike
+audience
+audiences
+traffic sign
+arm
+arms
+pedestrian
+pedestrians
+stabilizer
+stabilizers
+dock
+docks
+doorway
+doorways
+bedding
+beddings
+end
+ends
+worker
+workers
+canal
+canals
+crane
+cranes
+grate
+grates
+little girl
+rims
+passenger car
+plates
+background
+backgrounds
+peel
+peels
+brake light
+roman numeral
+string
+strings
+tines
+tine
+turf
+armrest
+armrests
+shower head
+leash
+leashes
+stones
+stoplight
+stoplights
+handle bars
+front
+fronts
+scarf
+scarves
+scarfs
+band
+bands
+jean
+jeans
+tennis
+tenniss
+pile
+piles
+doorknob
+doorknobs
+foot
+feet
+houses
+windows
+restaurant
+restaurants
+booth
+booths
+cardboard box
+fingers
+mountain range
+bleachers
+bleacher
+rail
+rails
+pastry
+pastries
+pastrys
+canoe
+canoes
+sun
+suns
+eye glasses
+salt shaker
+number
+numbers
+fish
+fishes
+knee pad
+fur
+furs
+she
+shower door
+rod
+rods
+branches
+birds
+printer
+printers
+sunset
+median
+medians
+shutter
+shutters
+slice
+slices
+heater
+heaters
+prongs
+prong
+bathing suit
+skiier
+rack
+racks
+rackss
+book
+books
+books are
+blade
+blades
+apartment
+apartments
+manhole cover
+stools
+overhang
+overhangs
+door handle
+couple
+couples
+picture frame
+chicken
+chickens
+planter
+planters
+seats
+hour hand
+dvd player
+ski slope
+french fry
+bowls
+top
+tops
+landing gear
+coffee maker
+melon
+melons
+computers
+light switch
+jar
+jars
+tv stand
+overalls
+overall
+garage
+garages
+tabletop
+writing
+writings
+doors
+stadium
+stadiums
+placemat
+air vent
+trick
+tricks
+sled
+mast
+masts
+pond
+ponds
+steering wheel
+baseball glove
+watermark
+pie
+pies
+sandwhich
+cpu
+mushroom
+mushrooms
+power pole
+dirt road
+handles
+speakers
+fender
+fenders
+telephone pole
+strawberry
+strawberries
+strawberrys
+mask
+masks
+children
+crust
+crusts
+art
+arts
+rim
+rims
+branch
+branches
+display
+displays
+grasses
+photo
+photos
+receipt
+receipts
+instructions
+instruction
+herbs
+herb
+toys
+handlebars
+trailer
+trailers
+sandal
+sandals
+skull
+skulls
+hangar
+hangars
+pipe
+pipes
+office
+offices
+chest
+chests
+lamps
+horizon
+calendar
+calendars
+foam
+foams
+stone
+stones
+bars
+button
+buttons
+poles
+heart
+hearts
+hose
+hoses
+jet engine
+potatoes
+rain
+magazine
+magazines
+chain
+chains
+footboard
+tee shirt
+design
+designs
+walls
+copyright
+pictures
+pillar
+pillars
+drink
+drinks
+barrier
+barriers
+boxes
+chocolate
+chocolates
+chef
+chefs
+slot
+slots
+sweatpants
+face mask
+icing
+wipers
+wiper
+circle
+circles
+bin
+bins
+kitty
+kitties
+electronics
+wild
+tiles
+steam
+lettering
+letterings
+bathroom sink
+laptop computer
+cherry
+cherries
+spire
+spires
+conductor
+conductors
+sheet
+sheets
+slab
+slabs
+windshield wipers
+storefront
+storefronts
+hill side
+spatula
+spatulas
+tail light
+bean
+beans
+wire
+wires
+intersection
+intersections
+pier
+piers
+snow board
+trunks
+website
+bolt
+bolts
+kayak
+kayaks
+nuts
+nut
+holder
+holders
+turbine
+turbines
+stop light
+olives
+ball cap
+burger
+burgers
+barrel
+barrels
+fans
+beanie
+stem
+stems
+lines
+traffic signal
+sweatshirt
+sweatshirts
+handbag
+handbags
+mulch
+socks
+landscape
+soda can
+shelves
+ski lift
+cord
+cords
+vegetable
+vegetables
+apron
+aprons
+blind
+blinds
+bracelets
+stickers
+traffic
+traffics
+strip
+strips
+tennis shoes
+swim trunks
+hillside
+hillsides
+sandals
+concrete
+lips
+butter knife
+words
+leaves
+train cars
+spoke
+spokes
+cereal
+cereals
+pine trees
+cooler
+coolers
+bangs
+bang
+half
+halves
+halfs
+sheets
+figurine
+figurines
+park bench
+stack
+stacks
+second floor
+motor
+motors
+hand towel
+wristwatch
+spectator
+spectators
+tissues
+flip flops
+quilt
+quilts
+floret
+florets
+calf
+calves
+back pack
+grapes
+ski tracks
+skin
+skins
+bow
+bows
+controls
+dinner
+dinners
+baseball players
+ad
+ads
+ribbon
+ribbons
+hotel
+hotels
+sea
+seas
+cover
+covers
+tarp
+tarps
+weather
+notebook
+notebooks
+mustache
+mustaches
+stone wall
+closet
+closets
+statues
+bank
+banks
+skateboards
+skateboard
+butter
+dress shirt
+knee
+knees
+wood
+woods
+woods are
+laptops
+cuff
+cuffs
+hubcap
+hubcaps
+wings
+range
+ranges
+structure
+structures
+balls
+tunnel
+tunnels
+globe
+globes
+utensil
+utensils
+dumpster
+dumpsters
+cd
+cds
+floors
+wrapper
+wrappers
+folder
+folders
+pocket
+pockets
+mother
+mothers
+ski goggles
+posts
+power line
+wake
+roses
+train track
+reflection
+reflections
+air conditioner
+referee
+barricade
+barricades
+baseball mitt
+mouse pad
+garbage can
+buckle
+buckles
+footprints
+footprint
+lights
+muffin
+muffins
+bracket
+brackets
+plug
+plugs
+taxi cab
+drinks
+surfers
+arrows
+control panel
+ring
+rings
+twigs
+soil
+skies
+clock hand
+caboose
+playground
+mango
+mangos
+mangoes
+stump
+stumps
+brick wall
+screw
+screws
+minivan
+leaf
+leaves
+leafs
+leaves are
+leavess
+fencing
+ledge
+ledges
+clothes
+grass field
+plumbing
+blouse
+blouses
+patch
+patches
+scaffolding
+hamburger
+hamburgers
+utility pole
+teddy
+teddies
+teddys
+rose
+roses
+skillet
+skillets
+cycle
+cycles
+cable
+cables
+gloves
+bark
+barks
+decoration
+decorations
+tables
+palm
+palms
+wii
+mountain top
+shrub
+shrubs
+hoof
+hoofs
+hooves
+celery
+celeries
+beads
+bead
+plaque
+plaques
+flooring
+surf
+cloth
+cloths
+passenger
+passengers
+spot
+spots
+plastic
+plastics
+knives
+case
+cases
+railroad
+railroads
+pony
+ponies
+muffler
+mufflers
+hot dogs
+stripe
+stripes
+of stripes
+the stripes
+scale
+scales
+block
+blocks
+recliner
+recliners
+body
+bodies
+bodys
+shades
+tap
+taps
+tools
+tool
+cupboard
+cupboards
+wallpaper
+sculpture
+sculptures
+surface
+surfaces
+sedan
+sedans
+distance
+distances
+shrubs
+skiis
+lift
+lifts
+bottom
+bottoms
+cleats
+roll
+rolls
+clothing
+bed frame
+slacks
+slack
+tail lights
+doll
+dolls
+traffic lights
+symbol
+symbols
+strings
+fixtures
+fixture
+short
+shorts
+paint
+paints
+candle holder
+guard rail
+cyclist
+cyclists
+tree branches
+ripples
+ripple
+gear
+gears
+waist
+trash bin
+onion
+onions
+home
+homes
+side mirror
+brush
+brushes
+brushes are
+sweatband
+sweatbands
+handlebar
+handlebars
+light pole
+street lamp
+pads
+ham
+hams
+artwork
+artworks
+reflector
+reflectors
+figure
+figures
+tile
+tiles
+mountainside
+mountainsides
+black
+bricks
+paper plate
+stick
+sticks
+beef
+patio
+weeds
+weed
+back
+backs
+sausage
+sausages
+paws
+farm
+farms
+decal
+decals
+harness
+harnesses
+monkey
+monkeys
+fence post
+door frame
+stripes
+stripess
+clocks
+ponytail
+ponytails
+toppings
+topping
+strap
+straps
+carton
+cartons
+greens
+green
+are green
+is green
+chin
+lunch
+lunches
+name
+names
+earring
+earrings
+area
+areas
+tshirt
+cream
+creams
+rails
+cushions
+lanyard
+lanyards
+brick
+bricks
+hallway
+cucumber
+cucumbers
+wire fence
+fern
+ferns
+tangerine
+tangerines
+windowsill
+pipes
+package
+packages
+wheelchair
+wheelchairs
+chips
+chip
+driveway
+tattoo
+tattoos
+side window
+stairway
+stairways
+basin
+basins
+machine
+machines
+table lamp
+radio
+pony tail
+ocean water
+inside
+insides
+cargo
+cargos
+overpass
+mat
+mats
+socket
+sockets
+flower pot
+tree line
+sign post
+tube
+tubes
+dial
+dials
+splash
+splashes
+male
+males
+lantern
+lanterns
+lipstick
+lip
+lips
+tongs
+ski suit
+trail
+trails
+passenger train
+bandana
+antelope
+antelopes
+designs
+tents
+photograph
+photographs
+catcher's mitt
+electrical outlet
+tires
+boulders
+mannequin
+mannequins
+plain
+plains
+layer
+layers
+mushrooms
+strawberries
+piece
+pieces
+oar
+oars
+bike rack
+slices
+arms
+fin
+fins
+shadows
+hood
+hoods
+windshield wiper
+letter
+letters
+dot
+dots
+bus stop
+railings
+pebbles
+pebble
+mud
+claws
+claw
+police car
+crown
+crowns
+meters
+name tag
+entrance
+entrances
+staircase
+staircases
+shrimp
+shrimps
+ladies
+peak
+peaks
+vines
+vine
+computer keyboard
+glass door
+pears
+pant
+pants
+pants are
+wine glasses
+stall
+stalls
+asphalt
+columns
+sleeve
+sleeves
+pack
+packs
+cheek
+cheeks
+baskets
+land
+lands
+day
+days
+blocks
+courtyard
+pedal
+pedals
+panel
+panels
+seeds
+seed
+balcony
+balconies
+balconys
+yellow
+yellows
+disc
+discs
+young man
+eyebrows
+crumbs
+crumb
+spinach
+emblem
+emblems
+object
+objects
+bar
+bars
+cardboard
+cardboards
+tissue
+tissues
+of tissues
+light post
+ski jacket
+seasoning
+seasonings
+parasol
+parasols
+terminal
+terminals
+surfing
+streetlight
+alley
+cords
+image
+images
+jug
+jugs
+antenna
+antennas
+antennae
+puppy
+puppies
+puppys
+berries
+berry
+diamond
+diamonds
+pans
+fountain
+fountains
+foreground
+syrup
+syrups
+bride
+brides
+spray
+sprays
+license
+licenses
+peppers
+passengers
+cement
+flags
+shack
+shacks
+trough
+troughs
+objects
+arches
+streamer
+streamers
+pots
+border
+borders
+baseboard
+baseboards
+beer bottle
+wrist watch
+tile floor
+page
+pages
+pin
+pins
+items
+item
+baseline
+hanger
+hangers
+tree branch
+tusks
+donkey
+donkeys
+containers
+condiments
+condiment
+device
+devices
+envelope
+envelopes
+parachute
+parachutes
+mesh
+hut
+huts
+butterfly
+butterflies
+butterflys
+salt
+restroom
+restrooms
+twig
+twigs
+pilot
+pilots
+ivy
+furniture
+clay
+print
+prints
+sandwiches
+lion
+lions
+shingles
+shingle
+pillars
+vehicles
+panes
+pane
+shoreline
+stream
+streams
+control
+controls
+lock
+locks
+microphone
+microphones
+blades
+towel rack
+coaster
+coasters
+star
+stars
+petals
+text
+texts
+feather
+feathers
+spots
+buoy
+buoys
+steering
+hot
+fire
+polar
+hour
+hydrant
+stuffed
+parking
+guard
+cell
+center
+maker
+sill
+cutting
+extinguisher
+"pitchers
+entertainment
+garbage
+bathing
+christmas
+landing
+soccer
+dryer
+flops
+power
+second
+roman
+american
+mound"
+living
+flip
+conditioner
