@@ -16,5 +16,5 @@ train.sh fairy_model/ fairy
 ## Inference
 e.g
 ```
-evaluate.sh fairy_model/ fairy_model/checkpoint_best.pt 0 10 fairy 
+evaluate.sh fairy_model/ fairy_model/checkpoint_best.pt fairy 10
 ```
