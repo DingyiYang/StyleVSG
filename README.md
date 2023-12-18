@@ -1,6 +1,9 @@
 # StyleVSG
 Codes for Paper: Attractive Storyteller: Stylized Visual Storytelling with Unpaired Text
 
+## Features
+The features can be downloaded from: https://drive.google.com/drive/folders/1gmSPserBvSMR8sVp3_8UKtsjgEwpnHsj?usp=drive_link
+
 ## Data Process
 ```
 bash process_multi.sh
